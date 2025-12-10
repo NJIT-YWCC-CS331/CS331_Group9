@@ -1,0 +1,11 @@
+# Don't upload sensitive files
+db.php
+*.env
+
+# Ignore local environment folders
+/vendor
+/node_modules
+
+# Ignore XAMPP junk
+*.log
+*.tmp
